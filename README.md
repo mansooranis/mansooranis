@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on UniCodeTree
+- 📫 How to reach me: mansooranis03@gmail.com
+- 😄 Pronouns: He/Him
 <!--
 **mansooranis/mansooranis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
