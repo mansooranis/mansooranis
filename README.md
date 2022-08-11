@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/mansooranis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-## I am Software Developer and a Machine Leaning Enthusiastic!
+## I am Software Developer and a Machine Learning Enthusiastic!
 - 🔭 I’m currently working on a mobile app <a href = "https://github.com/mansooranis/GymBuddy" >GymBuddy </a>
 - 📫 How to reach me: mansooranis03@gmail.com
 - 😄 Pronouns: He/Him
