@@ -7,8 +7,6 @@
 - 📫 How to reach me: mansooranis03@gmail.com
 - 😄 Pronouns: He/Him
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansooranis&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 
 ##### Tools and Technologies I use:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,6 +16,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansooranis&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 ### Here is a random joke for you!
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
