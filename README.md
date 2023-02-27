@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/mansooranis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-## I am Software Developer and a Machine Learning Enthusiastic!
+## Aspiring Software Developer and a Machine Learning Enthusiastic!
 - 🔭 Check out my most recent creation which allows users to build AI models visually <a href = "https://github.com/mansooranis/AI-Visualizer/" >AI Data Visualizer </a>
 - 📫 How to reach me: mansooranis03@gmail.com
 - 😄 Pronouns: He/Him
@@ -16,9 +16,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansooranis&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 ### Here is a random joke for you!
