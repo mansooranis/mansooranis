@@ -1,5 +1,3 @@
-<img src="https://github.com/mansooranis/mansooranis/blob/main/552ec189475f1d337391b02d6b0b9965.gif?raw=true"/>
-
 <a href="https://www.linkedin.com/in/mansooranis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Aspiring Software Developer and a Machine Learning Enthusiastic!
@@ -17,10 +15,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
-### Here is a random joke for you!
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-<br/>
 <!--
 **mansooranis/mansooranis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
