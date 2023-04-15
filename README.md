@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/mansooranis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-## Aspiring Software Developer and a Machine Learning Enthusiastic!
+## Software Developer and a Machine Learning Enthusiastic!
 - 🔭 Check out my most recent creation which allows users to build AI models visually <a href = "https://github.com/mansooranis/AI-Visualizer/" >AI Data Visualizer </a>
 - 📫 How to reach me: mansooranis03@gmail.com
 - 😄 Pronouns: He/Him
