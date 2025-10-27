@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/mansooranis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Software Developer and an AI Enthusiast!
-- 🔭 I am currently working on building a compiler using `C++`, `ANTLR4`, and `LLVM/MLIR`.
+- 🔭 I am currently building a compiler using `C++`, `ANTLR4`, and `LLVM/MLIR`.
 - 📫 How to reach me: mansooranis03 (at) gmail (dot) com
 - 😄 Pronouns: He/Him
 
